@@ -73,3 +73,49 @@ LynX is built with modern Python async frameworks and consists of the following 
    ```bash
    git clone https://github.com/yourusername/lynx.git
    cd lynx
+
+
+## Usage
+Once the bot is running, you can interact with it via Telegram:
+
+/start
+Initializes the bot and displays the main menu.
+
+/wallet
+Manage your Root Wallet (generate, import, export, or delete).
+
+/agents
+Create and configure Agent Wallets.
+
+/contract
+Update the token contract address used by the agents.
+
+/on & /off
+Start or stop the automated trading cycles.
+
+Additional commands and inline options are available to fund agents, withdraw funds, and adjust settings.
+
+## Contributing
+Contributions are welcome! To contribute:
+
+Fork the repository.
+Create a feature branch:
+git checkout -b feature/your-feature-name
+Commit your changes:
+git commit -am 'Add new feature'
+Push your branch:
+git push origin feature/your-feature-name
+Open a pull request and describe your changes.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Happy Trading!
+
+For any questions or feedback, please open an issue or join our Telegram channel for the latest updates on LynX.
+
+
+
+
+
+
+
