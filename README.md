@@ -71,7 +71,7 @@ LynX is built with modern Python async frameworks and consists of the following 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lynx.git
+   git clone https://github.com/goallthepath/lynx.git
    cd lynx
 
 
