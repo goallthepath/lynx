@@ -3,6 +3,8 @@
 *Version 1.0*  
 *Date: 2025-02-08*
 
+
+![LynX Bot](./lynx.png)
 ---
 
 ## Table of Contents
@@ -107,6 +109,9 @@ The project is designed in a modular fashion with the following core components:
 
 9. **Application Entry Point:**  
    *main.py* – Initializes the application and starts the polling loop.
+
+9. **Security:**  
+   *security.py* – Initializes the security of the bot and the database.
 
 ---
 
