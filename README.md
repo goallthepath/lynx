@@ -2,7 +2,7 @@
 
 *Version 1.0*  
 *Date: 2025-02-08*
-
+https://t.me/LynxTraderBot
 
 ![LynX Bot](./lynx.png)
 ---
