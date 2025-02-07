@@ -26,7 +26,9 @@
 ## Introduction
 
 The Autonomous Trading Bot with AI Agents is a modular, blockchain-based trading platform designed for the Solana ecosystem. The platform leverages automated agent wallets to perform dynamic buy-and-sell cycles using the Jupiter API and Solana blockchain. Our aim is to provide users with a flexible and scalable system for automated trading while laying the groundwork for future integration of artificial intelligence and machine learning-driven strategies.
-![LynX Bot](./lynxhomescreen.png)
+
+
+<img src="./lynxhomescreen.png" alt="LynX Bot " width="400" />
 ---
 
 ## Project Overview
