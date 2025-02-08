@@ -2,7 +2,7 @@
 
 *Version 1.0*  
 *Date: 2025-02-08*
-
+https://t.me/LynxTraderBot
 
 ![LynX Bot](./lynx.png)
 ---
@@ -24,8 +24,11 @@
 ---
 
 ## Introduction
+<img src="./lynxhomescreen.png" alt="LynX Bot " width="400" />
 
 The Autonomous Trading Bot with AI Agents is a modular, blockchain-based trading platform designed for the Solana ecosystem. The platform leverages automated agent wallets to perform dynamic buy-and-sell cycles using the Jupiter API and Solana blockchain. Our aim is to provide users with a flexible and scalable system for automated trading while laying the groundwork for future integration of artificial intelligence and machine learning-driven strategies.
+
+
 
 ---
 
@@ -44,7 +47,10 @@ This project combines several key functionalities:
 
 - **User-Friendly Interface:**  
   An interactive Telegram bot interface allows users to manage wallets, configure trading agents, load funds, and monitor trades via a series of intuitive commands and inline menus.
+  
 
+
+<img src="./lynxoverview.png" alt="LynX Bot Overview " width="400" />
 ---
 
 ## Current Features
@@ -76,7 +82,10 @@ This project combines several key functionalities:
 - **Asynchronous Processing:**  
   - Fully asynchronous design allowing multiple agent cycles to run concurrently.
   - Robust error handling and detailed logging.
+    
 
+
+<img src="./lynxagent.png" alt="LynX Bot Overview " width="400" />
 ---
 
 ## Technical Architecture
